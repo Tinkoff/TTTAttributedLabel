@@ -1,0 +1,4 @@
+module TTTAttributedLabel {
+    header "Headers/TTTAttributedLabel-Bridging-Header.h"
+    export *
+}
